@@ -55,6 +55,9 @@ namespace WelcomeMessage
                                 Console.WriteLine("Please enter your phone  number below");
                                    long phoneNumber = long.Parse(Console.ReadLine());
                                 Console.WriteLine("We will call you at " + phoneNumber);
+
+ // Ask for insurance information, needs to be able to upload 
+ // Credit checks with factoring company
                             }
 
                         }
